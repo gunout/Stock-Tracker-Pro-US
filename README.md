@@ -3,7 +3,7 @@
 
 # LIENS APP STREAMLIT :
 
-      https://stock-tracker-pro-us.streamlit.app/
+    https://stock-tracker-pro-us.streamlit.app/
 
 
 ![us ex utc 2](https://github.com/user-attachments/assets/f076beca-1a8e-4de7-8419-1ad8d65c2307)
