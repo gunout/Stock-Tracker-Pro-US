@@ -1,4 +1,4 @@
-# 📊 Stock Tracker Pro - Analyse en Temps Réel - US - 
+# 📊 Stock Tracker Pro - Analyse en Temps Réel - US  
 🕐 Fuseau : UTC+2 (Heure locale)
 
 # LIENS APP STREAMLIT :
